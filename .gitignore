@@ -1,0 +1,13 @@
+# Sistema / editor
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Dependencias / builds (por si más adelante se agregan tooling)
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# Foam
+.foam/

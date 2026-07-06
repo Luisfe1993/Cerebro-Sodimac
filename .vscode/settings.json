@@ -1,0 +1,25 @@
+{
+  "foam.edit.linkReferenceDefinitions": "off",
+  "foam.files.ignore": [
+    "**/.vscode/**",
+    "**/node_modules/**",
+    "row/**"
+  ],
+  "foam.graph.style": {
+    "background": "#1a1a1a",
+    "node": {
+      "note": "#c9a227",
+      "empresa": "#4c9aff",
+      "finanzas": "#2ecc71",
+      "kpis": "#e67e22",
+      "fpna": "#e74c3c"
+    }
+  },
+  "editor.wordWrap": "on",
+  "files.exclude": {
+    "**/.git": true
+  },
+  "search.exclude": {
+    "row/**": false
+  }
+}
