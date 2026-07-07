@@ -28,7 +28,7 @@ Corpus real cargado por el usuario (2026-07-07). Ingesta **progresiva por olas**
 | Memoria-Sodimac-2025.pdf | Memoria Anual - Sodimac Chile | ✅ | ✅ Ola 1 |
 | EF-Marzo-2025 / Septiembre-2025 / Marzo-2026 | Estados Financieros - Sodimac Chile | ✅ | ✅ Ola 2 |
 | EF-Dic 2021/2022/2023/2024 | Estados Financieros - Sodimac Chile | ✅ | ✅ Ola 2 |
-| Memoria Sodimac 2022/2023/2024 | Memoria Anual - Sodimac Chile | ⏳ | ⏳ Ola 2b |
+| Memoria Sodimac 2022/2023/2024 | Memoria Anual - Sodimac Chile | ✅ | ✅ Ola 2b |
 | Memorias Falabella 2021/2022/2023/2025 | Grupo Falabella | ⏳ | ⏳ Ola 3 |
 | EF Grupo Falabella (FSA 2025, mar/jun/sep-25, mar-26) | Grupo Falabella/Estados Financieros | ⏳ | ⏳ Ola 3 |
 | Plan-Inversiones-2026.pdf | Grupo Falabella | ⏳ | ⏳ Ola 3 |

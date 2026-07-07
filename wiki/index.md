@@ -5,8 +5,8 @@
 
 ## Estado
 - **Corpus en `row/`:** ~24 PDF (EF y memorias de Sodimac Chile + Grupo Falabella + plan de inversiones + estatutos).
-- **Fuentes ingeridas:** 9 EF de Sodimac Chile (2021-2026) + Memoria 2025 (Olas 1-2).
-- **Páginas del wiki:** 14.
+- **Fuentes ingeridas:** 9 EF de Sodimac Chile (2021-2026) + 4 Memorias Sodimac (2022-2025) (Olas 1-2b).
+- **Páginas del wiki:** 16.
 - **Última actualización:** 2026-07-07.
 
 ## Cómo usar este cerebro
@@ -28,6 +28,7 @@
 ## Series (tablas de tiempo)
 - [Serie anual — Ingresos, márgenes y resultado 2021-2025](series/ingresos-y-resultado-anual.md) — Auge 2021 → pérdida 2023 → recuperación; ventas MM$3.256k→2.556k. ✅
 - [Evolución 2025 YTD + Q1-2026](series/evolucion-2025-ytd.md) — Acumulados 3M/6M/9M/12M y arranque 2026 plano (+0,95%). ✅
+- [Serie operativa anual 2022-2025](series/operativo-anual.md) — Tiendas, superficie, dotación (-16%) y productividad; venta/trabajador en máximo. ✅
 
 ## KPIs
 - [Indicadores operativos — Sodimac 2025](kpis/indicadores-operativos-2025.md) — Venta/m², ticket medio, rotación de inventario (~4,36×), red y actividad. ✅

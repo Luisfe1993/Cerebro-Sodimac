@@ -5,6 +5,13 @@
 
 ---
 
+## [2026-07-07] ingest | Ola 2b — serie operativa (Memorias Sodimac 2022-2024)
+- Extraídas e ingeridas las memorias 2022, 2023, 2024 (la 2025 ya estaba).
+- Creadas 2 páginas: `series/operativo-anual`, `fuentes/memorias-sodimac-serie`.
+- Serie operativa 2022-2025: trabajadores 15.365→12.874 (-16%), superficie ~774k→792k m² (estable), transacciones +48M→46,7M, tiendas 87 (74+13).
+- Productividad: venta por trabajador en máximo 2025 (MM$198,5). Cifras de memorias cruzadas y validadas contra ventas de EF (coinciden).
+- `index.md` actualizado.
+
 ## [2026-07-07] build | Checklist de FP&A (análisis de resultados)
 - Creada `fpna/checklist-analisis-resultados`: guía accionable de 8 bloques (setup, ingresos, márgenes, GAV, no operacional, balance/capital de trabajo, flujo de caja, red flags, entregable), anclada a las cuentas y ratios reales de Sodimac S.A.
 - `index.md` actualizado (sección FP&A).
