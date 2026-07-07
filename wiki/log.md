@@ -5,6 +5,13 @@
 
 ---
 
+## [2026-07-07] ingest | Ola 4 — cobertura 100% (grupo trimestral + memorias Falabella 2021-2023 + estatutos)
+- Extraídos e ingeridos los 8 PDF restantes → **cobertura 24/24**.
+- Nuevas páginas: `series/grupo-falabella-financiero` (ingresos grupo 2021-2026), `empresa/gobierno-corporativo` (estatutos).
+- Nuevas fichas: `estatutos-sodimac-2026`, `ef-falabella-serie`, `memorias-falabella-serie`.
+- Hallazgos: ingresos grupo 2021 MM$10.335.384 → piso 2023 MM$9.355.115 → 2025 MM$11.342.386; 1T-26 +4,3% (vs Sodimac Chile +0,95%). Estatutos: entidad nació como FADOS, pasó por HOMESTORE S.A., hoy Sodimac S.A.
+- Restaurados enlaces a marcas-formatos y ebitda (re-creados en Ola 3b). Lint 🟢 con cobertura completa.
+
 ## [2026-07-07] lint+mejora | Automatización del Lint y convención query pages
 - Lint manual completo: 🟢 Verde — 0 huérfanos, 0 enlaces rotos, frontmatter 100%, todas verificadas. Único hueco: 8 PDF sin extraer/citar.
 - Creado **`tools/lint.py`**: reporta huérfanos, enlaces rotos, frontmatter incompleto, estado y cobertura PDF (row→extracted→citado). Opción `--strict`.

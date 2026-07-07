@@ -4,9 +4,9 @@
 > Reconstruido desde cero (Ola 0) sobre el corpus real de `row/`. El wiki piloto anterior está en `_archive_piloto/`.
 
 ## Estado
-- **Corpus en `row/`:** ~24 PDF (EF y memorias de Sodimac Chile + Grupo Falabella + plan de inversiones + estatutos).
-- **Fuentes ingeridas:** 9 EF Sodimac + 4 Memorias Sodimac + EF Falabella FSA 2025 + Memoria Falabella 2025 + Plan Inversiones 2026 + presentación corporativa.
-- **Páginas del wiki:** 24.
+- **Corpus en `row/`:** 24 PDF — **cobertura 100%** (todos extraídos y citados).
+- **Fuentes ingeridas:** 24/24 PDF (Sodimac Chile + Grupo Falabella + estatutos) + presentación corporativa.
+- **Páginas del wiki:** 29.
 - **Última actualización:** 2026-07-07.
 
 ## Cómo usar este cerebro
@@ -22,6 +22,7 @@
 - [Grupo Falabella — ecosistema y engines](empresa/grupo-falabella.md) — Ingresos grupo MM$11.342.386; +90 mil colaboradores; Sodimac = mayor engine (38%). ✅
 - [Marcas y formatos](empresa/marcas-formatos.md) — 5 formatos, 35 marcas propias, Super Store especialista; 256 tiendas LatAm. ✅
 - [Estrategia y prioridades](empresa/estrategia.md) — 4 prioridades del grupo + foco Sodimac (PRO, marcas propias, specialist superstore). ✅
+- [Gobierno corporativo y estatutos](empresa/gobierno-corporativo.md) — Sodimac S.A.: objeto social, directorio e historia (FADOS→HOMESTORE→Sodimac). ✅
 
 ## Finanzas
 - [Estado de resultados — Sodimac 2025](finanzas/estado-resultados-sodimac-2025.md) — P&L FY2025: ingresos +5,5%, ganancia MM$11.397 (×18 vs 2024). ✅
@@ -33,6 +34,7 @@
 - [Serie anual — Ingresos, márgenes y resultado 2021-2025](series/ingresos-y-resultado-anual.md) — Auge 2021 → pérdida 2023 → recuperación; ventas MM$3.256k→2.556k. ✅
 - [Evolución 2025 YTD + Q1-2026](series/evolucion-2025-ytd.md) — Acumulados 3M/6M/9M/12M y arranque 2026 plano (+0,95%). ✅
 - [Serie operativa anual 2022-2025](series/operativo-anual.md) — Tiendas, superficie, dotación (-16%) y productividad; venta/trabajador en máximo. ✅
+- [Serie financiera del Grupo Falabella 2021-2026](series/grupo-falabella-financiero.md) — Ingresos grupo: piso 2023 MM$9.355k → 2025 MM$11.342k; 1T-26 +4,3%. ✅
 
 ## KPIs
 - [Indicadores operativos — Sodimac 2025](kpis/indicadores-operativos-2025.md) — Venta/m², ticket medio, rotación de inventario (~4,36×), red y actividad. ✅
@@ -61,6 +63,9 @@
 - [Memoria Falabella 2025](fuentes/memoria-falabella-2025.md) — Memoria integrada del grupo (+90 mil colaboradores, ecosistema).
 - [Plan de Inversiones Falabella 2026](fuentes/plan-inversiones-falabella-2026.md) — Capex 2026 del grupo por negocio (US$).
 - [Presentación corporativa Falabella 1Q26](fuentes/falabella-corporate-presentation-1Q2026.md) — Contexto del grupo en US$.
+- [Serie EF Grupo Falabella (trimestrales)](fuentes/ef-falabella-serie.md) — EF intermedios del grupo mar/jun/sep-25 y mar-26.
+- [Serie Memorias Falabella (2021-2023)](fuentes/memorias-falabella-serie.md) — Memorias del grupo para la serie histórica.
+- [Estatutos Sodimac 2026](fuentes/estatutos-sodimac-2026.md) — Estatutos refundidos (gobierno corporativo).
 
 ## Archivo
 - `_archive_piloto/` — wiki de la fase piloto anterior (páginas hechas con 2 fuentes de chat; conserva SSS, EBITDA, marcas, estrategia para re-ingesta).

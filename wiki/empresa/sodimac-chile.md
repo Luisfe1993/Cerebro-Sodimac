@@ -37,7 +37,8 @@ Falabella (incluye la filial **Imperial**). En 2025 facturó **MM$2.555.786** co
 - [Balance — Sodimac 2025](../finanzas/balance-sodimac-2025.md)
 - [Flujo de caja — Sodimac 2025](../finanzas/flujo-de-caja-sodimac-2025.md)
 - [Indicadores operativos — Sodimac 2025](../kpis/indicadores-operativos-2025.md)
-- Marcas y formatos _(pendiente Ola 3b)_
+- [Marcas y formatos](marcas-formatos.md)
+- [Gobierno corporativo y estatutos](gobierno-corporativo.md)
 - [Alcance: Sodimac S.A. vs Grupo Falabella](../conceptos/alcance-sodimac-sa-vs-grupo.md)
 
 ## Fuentes

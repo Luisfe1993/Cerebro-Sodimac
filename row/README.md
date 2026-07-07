@@ -29,12 +29,13 @@ Corpus real cargado por el usuario (2026-07-07). Ingesta **progresiva por olas**
 | EF-Marzo-2025 / Septiembre-2025 / Marzo-2026 | Estados Financieros - Sodimac Chile | ✅ | ✅ Ola 2 |
 | EF-Dic 2021/2022/2023/2024 | Estados Financieros - Sodimac Chile | ✅ | ✅ Ola 2 |
 | Memoria Sodimac 2022/2023/2024 | Memoria Anual - Sodimac Chile | ✅ | ✅ Ola 2b |
-| Memorias Falabella 2021/2022/2023/2025 | Grupo Falabella | 2025 ✅ | 2025 ✅ Ola 3b (resto ⏳) |
+| Memorias Falabella 2021/2022/2023/2025 | Grupo Falabella | ✅ | ✅ Ola 3b/4 |
 | EF Grupo Falabella (FSA 2025) | Grupo Falabella/Estados Financieros | ✅ | ✅ Ola 3 |
-| EF Grupo Falabella (mar/jun/sep-25, mar-26) | Grupo Falabella/Estados Financieros | ⏳ | ⏳ Ola 3b |
+| EF Grupo Falabella (mar/jun/sep-25, mar-26) | Grupo Falabella/Estados Financieros | ✅ | ✅ Ola 4 |
 | Plan-Inversiones-2026.pdf | Grupo Falabella | ✅ | ✅ Ola 3 |
-| Estatutos-refundidos-2026.pdf | (raíz row) | ⏳ | ⏳ Ola 4 |
+| Estatutos-refundidos-2026.pdf | (raíz row) | ✅ | ✅ Ola 4 |
 
+> **Cobertura: 24/24 PDF extraídos y citados en el wiki** (verifícalo con `python tools/lint.py`).
 > ✅ hecho · ⏳ pendiente. Los documentos **nuevos** van a la bandeja [`_inbox/`](_inbox/);
 > se extraen con `python tools/extract_pdfs.py` y se ingieren por olas.
 > Nota: los `.md` `sodimac-press-release-2Q2025` y `falabella-corporate-presentation-1Q2026`

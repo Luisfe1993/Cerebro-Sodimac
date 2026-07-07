@@ -41,6 +41,7 @@ consolida a Sodimac LatAm; los EF de **Sodimac S.A. (Chile)** son solo una parte
 
 ## Relacionado
 - [Sodimac Chile — entidad](sodimac-chile.md)
+- [Serie financiera del Grupo Falabella (2021-2026)](../series/grupo-falabella-financiero.md)
 - [Plan de inversiones del grupo 2026](../finanzas/plan-inversiones-grupo-2026.md)
 - [Alcance: Sodimac S.A. vs Grupo Falabella](../conceptos/alcance-sodimac-sa-vs-grupo.md)
 
