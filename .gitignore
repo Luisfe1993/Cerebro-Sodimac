@@ -11,3 +11,6 @@ __pycache__/
 
 # Foam
 .foam/
+
+# Extracción de PDF: los .md5 son sellos internos (el texto .txt sí se versiona)
+extracted/**/*.md5

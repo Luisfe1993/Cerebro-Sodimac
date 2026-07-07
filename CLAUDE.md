@@ -26,24 +26,45 @@
 ```
 cerebro-sodimac/
 ├── CLAUDE.md          ← este archivo (reglas). NO es contenido de la wiki.
-├── row/               ← CAPA 3: archivos BRUTOS del usuario. NO se modifican jamás.
+├── tools/             ← utilidades. `extract_pdfs.py` convierte row/*.pdf → extracted/*.txt.
+├── row/               ← CAPA 3: archivos BRUTOS del usuario (PDF). NO se modifican jamás.
+│   ├── README.md      ← tabla de estado de ingesta (✅ ingerido / ⏳ pendiente).
+│   ├── _inbox/        ← bandeja de PENDIENTES (aún sin ingerir).
+│   ├── Estados Financieros - Sodimac Chile/   ← EF anuales y trimestrales (CLP, NIIF).
+│   ├── Memoria Anual - Sodimac Chile/         ← memorias integradas.
+│   └── Grupo Falabella/                        ← memorias, EF y plan de inversiones del grupo.
+├── extracted/         ← texto derivado de los PDF (apoyo de lectura del agente). NO es fuente.
 └── wiki/              ← CAPA 2: propiedad de la IA. Aquí crea/actualiza/mantiene.
     ├── index.md       ← índice maestro (tipo "índice de libro").
     ├── log.md         ← registro cronológico de todo lo ingerido/cambiado.
-    ├── empresa/       ← páginas sobre Sodimac (modelo de negocio, formatos, geografía, grupo Falabella).
-    ├── industria/     ← retail de mejoramiento del hogar, mercado LatAm, peers, ciclo del sector.
-    ├── finanzas/      ← estados financieros, márgenes, capital, deuda, drivers financieros.
-    ├── kpis/          ← KPIs de retail y de FP&A (SSS, ticket, tráfico, GMROI, etc.).
-    ├── fpna/          ← procesos de FP&A: presupuesto, forecast, cierre, variance analysis, reporting.
-    ├── conceptos/     ← conceptos transversales de finanzas/contabilidad citados en las fuentes.
-    ├── checklists/    ← checklists accionables (análisis de resultados, red flags, etc.).
+    ├── empresa/       ← entidades: Sodimac Chile, Grupo Falabella, marcas/formatos, gobierno corporativo.
+    ├── finanzas/      ← P&L, balance, deuda, flujo de caja, capex/inversiones (por entidad).
+    ├── series/        ← tablas de tiempo (ingresos, EBITDA, márgenes, SSS, inventario) trimestre/año.
+    ├── kpis/          ← KPIs de retail y de FP&A (SSS, rotación, productividad m², días CxC/CxP, GMROI).
+    ├── industria/     ← sector construcción Chile, mercado home improvement LatAm, peers, ciclo.
+    ├── fpna/          ← procesos/checklists de FP&A: presupuesto, forecast, cierre, variance, reporting.
+    ├── conceptos/     ← conceptos transversales (EBITDA, NIIF, alcance entidad vs segmento, leverage).
+    ├── sintesis/      ← visión ejecutiva que se actualiza en cada ingesta.
     └── fuentes/       ← una ficha por documento bruto ingerido (metadata + qué aporta).
 ```
+
+### 2.1 Flujo de lectura de PDF (obligatorio)
+- El agente **no lee el binario del PDF**. Antes de ingerir, corre `python tools/extract_pdfs.py`
+  (o `--only "<nombre>"`) para generar el texto en `extracted/<misma ruta>.txt`.
+- Lee el `.txt` de `extracted/` para sintetizar, pero **cita siempre el PDF de `row/`**
+  con su página: `[Fuente: EF-Junio-2025.pdf · p.7 · 2025]`.
+- `extracted/` es **derivado**: nunca es fuente, no se cita como tal, y se puede regenerar.
+
+### 2.2 Entidades del corpus (fijar perímetro SIEMPRE)
+- **Sodimac S.A. (Chile)** — entidad legal + filiales, CLP, NIIF (EF y memorias Sodimac). Foco del rol FP&A.
+- **Grupo Falabella (LatAm)** — consolidado del grupo, US$/CLP según documento; Sodimac como engine.
+- No mezclar monedas ni perímetros. Ver `conceptos/alcance-sodimac-sa-vs-segmento`.
 
 ## 3. Reglas de trabajo (obligatorias)
 
 ### 3.1 Fuentes y trazabilidad
 - **Prioriza SIEMPRE los archivos de `row/`.** Toda afirmación factual (cifras, fechas, hechos de la empresa) debe salir de un documento bruto y llevar **cita**: `[Fuente: <archivo> · <página/sección> · <año>]`.
+- **Los archivos de `row/` no se mueven una vez citados** (las rutas de las citas son estables). Los documentos pendientes viven en `row/_inbox/`; al ingerirlos, muévelos a la raíz de `row/` y actualiza la tabla de estado en `row/README.md`.
 - Si un dato **no** está en `row/`, puedes usar conocimiento general SOLO si lo marcas explícitamente como `> [!note] Conocimiento externo — validar contra fuente` y nunca lo presentas como cifra oficial de Sodimac.
 - **Nunca inventes cifras financieras.** Si falta el dato, dilo y regístralo como pendiente en el `log.md`.
 

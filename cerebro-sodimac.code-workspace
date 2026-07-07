@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "name": "Cerebro Sodimac (FP&A)",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.wordWrap": "on",
+    "files.exclude": {
+      "**/.git": true
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "foam.foam-vscode",
+      "yzhang.markdown-all-in-one"
+    ]
+  }
+}

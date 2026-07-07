@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "6f643bca7be3bf01",
+    "type": "split",
+    "children": [
+      {
+        "id": "292eb2e640a6eab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d873c95dbd97c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/empresa/grupo-falabella.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "grupo-falabella"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e9e34b57103fd83",
+    "type": "split",
+    "children": [
+      {
+        "id": "2678024ba34ae297",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "432ce13eb3b6d4d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4bfa57773c0df308",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "877fd98b2b405bde",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd018c480ea3f113",
+    "type": "split",
+    "children": [
+      {
+        "id": "995bb03813103af1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38fa56513e8688de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b1faf54944b23b7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "074a5e27be523a6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "449422bf97cc3919",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "913c925a22b964e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6d873c95dbd97c16",
+  "lastOpenFiles": [
+    "wiki/conceptos/alcance-sodimac-sa-vs-grupo.md",
+    "wiki/sintesis/vision-ejecutiva-sodimac.md",
+    "wiki/sintesis",
+    "wiki/kpis/indicadores-operativos-2025.md",
+    "wiki/kpis",
+    "wiki/finanzas/flujo-de-caja-sodimac-2025.md",
+    "wiki/finanzas/balance-sodimac-2025.md",
+    "wiki/finanzas/estado-resultados-sodimac-2025.md",
+    "wiki/finanzas",
+    "wiki/empresa/sodimac-chile.md",
+    "wiki/empresa",
+    "wiki/conceptos",
+    "wiki/fuentes/memoria-sodimac-2025.md",
+    "wiki/fuentes/ef-sodimac-junio-2025.md",
+    "wiki/fuentes/ef-sodimac-diciembre-2025.md",
+    "wiki/fuentes",
+    "wiki/_archive_piloto/fuentes/sodimac-press-release-2Q2025.md",
+    "wiki/_archive_piloto/fuentes/falabella-corporate-presentation-1Q2026.md",
+    "wiki/_archive_piloto/fuentes",
+    "wiki/_archive_piloto/fpna/variance-analysis.md",
+    "wiki/_archive_piloto/fpna",
+    "wiki/_archive_piloto/conceptos/ebitda.md",
+    "wiki/_archive_piloto/conceptos/alcance-sodimac-sa-vs-segmento.md",
+    "wiki/_archive_piloto/conceptos",
+    "wiki/_archive_piloto/kpis/same-store-sales.md",
+    "wiki/_archive_piloto/kpis/indicadores-retail.md",
+    "wiki/_archive_piloto/kpis",
+    "wiki/_archive_piloto/finanzas/endeudamiento-balance-sodimac-sa.md",
+    "wiki/_archive_piloto/finanzas/estado-resultados-sodimac-sa.md",
+    "wiki/_archive_piloto/empresa/sodimac-vision-general.md",
+    "wiki/_archive_piloto/empresa/marcas-formatos.md",
+    "wiki/_archive_piloto/empresa/estrategia.md",
+    "wiki/_archive_piloto/empresa/grupo-falabella.md",
+    "row/_inbox/README.md",
+    "wiki/finanzas/estado-resultados-sodimac-sa.md"
+  ]
+}
