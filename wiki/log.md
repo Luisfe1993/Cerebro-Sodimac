@@ -5,6 +5,10 @@
 
 ---
 
+## [2026-07-07] build | Checklist de FP&A (análisis de resultados)
+- Creada `fpna/checklist-analisis-resultados`: guía accionable de 8 bloques (setup, ingresos, márgenes, GAV, no operacional, balance/capital de trabajo, flujo de caja, red flags, entregable), anclada a las cuentas y ratios reales de Sodimac S.A.
+- `index.md` actualizado (sección FP&A).
+
 ## [2026-07-07] ingest | Ola 2 — serie histórica EF Sodimac Chile (2021-2026)
 - Extraídos e ingeridos 7 EF adicionales: anuales 2021, 2022, 2023, 2024 e intermedios mar-2025, sep-2025, mar-2026 (jun/dic-2025 ya estaban).
 - Creadas 3 páginas: `series/ingresos-y-resultado-anual`, `series/evolucion-2025-ytd`, `fuentes/ef-sodimac-serie-historica`.

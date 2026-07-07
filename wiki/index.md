@@ -6,7 +6,7 @@
 ## Estado
 - **Corpus en `row/`:** ~24 PDF (EF y memorias de Sodimac Chile + Grupo Falabella + plan de inversiones + estatutos).
 - **Fuentes ingeridas:** 9 EF de Sodimac Chile (2021-2026) + Memoria 2025 (Olas 1-2).
-- **Páginas del wiki:** 13.
+- **Páginas del wiki:** 14.
 - **Última actualización:** 2026-07-07.
 
 ## Cómo usar este cerebro
@@ -33,7 +33,7 @@
 - [Indicadores operativos — Sodimac 2025](kpis/indicadores-operativos-2025.md) — Venta/m², ticket medio, rotación de inventario (~4,36×), red y actividad. ✅
 
 ## FP&A
-- _(Ola 1+)_ Checklist de análisis de resultados _(pendiente)_.
+- [Checklist — Análisis de resultados](fpna/checklist-analisis-resultados.md) — Guía accionable trimestral/anual anclada a las cuentas reales de Sodimac. ✅
 
 ## Conceptos
 - [Alcance: Sodimac S.A. vs Grupo Falabella](conceptos/alcance-sodimac-sa-vs-grupo.md) — Perímetro/moneda: entidad Chile (CLP) ≠ grupo LatAm (US$). ✅
