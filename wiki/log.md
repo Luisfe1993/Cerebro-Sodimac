@@ -5,6 +5,12 @@
 
 ---
 
+## [2026-07-07] ingest | Ola 3b — re-ingesta (marcas, estrategia, EBITDA) + Memoria Falabella 2025
+- Re-creadas desde fuentes reales: `empresa/marcas-formatos` (Memoria Sodimac 2025 + corp pres), `empresa/estrategia` (Plan Inversiones + corp pres), `conceptos/ebitda` (EF + corp pres).
+- Extraída e ingerida (light) la Memoria Falabella 2025 (421 págs): +90 mil colaboradores; añadido a `empresa/grupo-falabella` y ficha `fuentes/memoria-falabella-2025`.
+- Pendiente: SSS (requiere press releases trimestrales) → Ola 4.
+- `index.md` actualizado (24 páginas).
+
 ## [2026-07-07] ingest+fix | Ola 3 (Grupo Falabella) + limpieza de duplicados
 - Ingeridos: EF Falabella FSA 2025 (grupo, CLP) y Plan de Inversiones 2026.
 - Creadas páginas: `empresa/grupo-falabella` (reconstruida), `finanzas/plan-inversiones-grupo-2026`, fuentes `ef-falabella-fsa-2025` y `plan-inversiones-falabella-2026`.

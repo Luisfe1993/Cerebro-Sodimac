@@ -5,8 +5,8 @@
 
 ## Estado
 - **Corpus en `row/`:** ~24 PDF (EF y memorias de Sodimac Chile + Grupo Falabella + plan de inversiones + estatutos).
-- **Fuentes ingeridas:** 9 EF Sodimac + 4 Memorias Sodimac + EF Falabella FSA 2025 + Plan Inversiones 2026 + presentación corporativa.
-- **Páginas del wiki:** 20.
+- **Fuentes ingeridas:** 9 EF Sodimac + 4 Memorias Sodimac + EF Falabella FSA 2025 + Memoria Falabella 2025 + Plan Inversiones 2026 + presentación corporativa.
+- **Páginas del wiki:** 24.
 - **Última actualización:** 2026-07-07.
 
 ## Cómo usar este cerebro
@@ -19,7 +19,9 @@
 
 ## Empresa
 - [Sodimac Chile — entidad](empresa/sodimac-chile.md) — Perfil de Sodimac S.A.: 87 tiendas, 12.874 trabajadores, MM$2.555.786 ventas 2025. ✅
-- [Grupo Falabella — ecosistema y engines](empresa/grupo-falabella.md) — Ingresos grupo MM$11.342.386; Sodimac = mayor engine (38% revenue). ✅
+- [Grupo Falabella — ecosistema y engines](empresa/grupo-falabella.md) — Ingresos grupo MM$11.342.386; +90 mil colaboradores; Sodimac = mayor engine (38%). ✅
+- [Marcas y formatos](empresa/marcas-formatos.md) — 5 formatos, 35 marcas propias, Super Store especialista; 256 tiendas LatAm. ✅
+- [Estrategia y prioridades](empresa/estrategia.md) — 4 prioridades del grupo + foco Sodimac (PRO, marcas propias, specialist superstore). ✅
 
 ## Finanzas
 - [Estado de resultados — Sodimac 2025](finanzas/estado-resultados-sodimac-2025.md) — P&L FY2025: ingresos +5,5%, ganancia MM$11.397 (×18 vs 2024). ✅
@@ -40,7 +42,8 @@
 
 ## Conceptos
 - [Alcance: Sodimac S.A. vs Grupo Falabella](conceptos/alcance-sodimac-sa-vs-grupo.md) — Perímetro/moneda: entidad Chile (CLP) ≠ grupo LatAm (US$). ✅
-- _(Ola 3b)_ EBITDA, SSS, marcas/formatos y estrategia — pendientes de re-ingesta desde fuentes reales (están en `_archive_piloto/`).
+- [EBITDA](conceptos/ebitda.md) — Métrica derivada (no es renglón del EF); cómo lo reportan las fuentes y el efecto NIIF 16. ✅
+- _(Ola 4)_ SSS (ventas comparables) — pendiente: requiere press releases trimestrales.
 
 ## Industria
 - _(Ola 4)_ Sector construcción Chile, home improvement LatAm, peers.
@@ -55,6 +58,7 @@
 - [Serie histórica EF Sodimac Chile (2021-2026)](fuentes/ef-sodimac-serie-historica.md) — 9 EF anuales e intermedios para las series.
 - [Serie de Memorias Sodimac Chile (2022-2025)](fuentes/memorias-sodimac-serie.md) — Memorias para la serie operativa.
 - [EF Falabella FSA 2025](fuentes/ef-falabella-fsa-2025.md) — EF consolidados del grupo (CLP) + nota de segmentos.
+- [Memoria Falabella 2025](fuentes/memoria-falabella-2025.md) — Memoria integrada del grupo (+90 mil colaboradores, ecosistema).
 - [Plan de Inversiones Falabella 2026](fuentes/plan-inversiones-falabella-2026.md) — Capex 2026 del grupo por negocio (US$).
 - [Presentación corporativa Falabella 1Q26](fuentes/falabella-corporate-presentation-1Q2026.md) — Contexto del grupo en US$.
 

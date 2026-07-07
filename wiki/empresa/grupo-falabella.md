@@ -19,6 +19,7 @@ consolida a Sodimac LatAm; los EF de **Sodimac S.A. (Chile)** son solo una parte
 - **Ingresos de actividades ordinarias: MM$11.342.386** (+9,9% vs MM$10.322.104 en 2024).
 - **Activos totales: MM$26.812.998** (no bancarios MM$16.655.006 + bancarios MM$10.157.993).
 - Ingresos por geografía 2025: Chile MM$7.925.040 · Perú MM$3.985.300 · Colombia MM$1.149.040 · Brasil MM$256.336.
+- **+90 mil colaboradores** en el grupo. `[Fuente: MemoriaAnualFalabella2025_Web.pdf · carta a accionistas · 2025]`
 `[Fuente: Estados_financieros_FSA_2025.pdf · Nota 29 / Nota 37 · 2025]`
 
 ## Cifras del grupo (US$, presentación corporativa 1Q26)
@@ -44,4 +45,4 @@ consolida a Sodimac LatAm; los EF de **Sodimac S.A. (Chile)** son solo una parte
 - [Alcance: Sodimac S.A. vs Grupo Falabella](../conceptos/alcance-sodimac-sa-vs-grupo.md)
 
 ## Fuentes
-- [EF Falabella FSA 2025](../fuentes/ef-falabella-fsa-2025.md) · [Presentación corporativa 1Q26](../fuentes/falabella-corporate-presentation-1Q2026.md)
+- [EF Falabella FSA 2025](../fuentes/ef-falabella-fsa-2025.md) · [Memoria Falabella 2025](../fuentes/memoria-falabella-2025.md) · [Presentación corporativa 1Q26](../fuentes/falabella-corporate-presentation-1Q2026.md)
