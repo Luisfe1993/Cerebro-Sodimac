@@ -5,6 +5,12 @@
 
 ---
 
+## [2026-07-07] lint+mejora | Automatización del Lint y convención query pages
+- Lint manual completo: 🟢 Verde — 0 huérfanos, 0 enlaces rotos, frontmatter 100%, todas verificadas. Único hueco: 8 PDF sin extraer/citar.
+- Creado **`tools/lint.py`**: reporta huérfanos, enlaces rotos, frontmatter incompleto, estado y cobertura PDF (row→extracted→citado). Opción `--strict`.
+- `CLAUDE.md` actualizado: rutina Lint automatizada (correr tras cada ola), convención de **"query pages"** (archivar análisis valiosos como páginas), y `tipo` ampliado (serie, analisis).
+- Pendiente acordado: completar cobertura de los 8 PDF.
+
 ## [2026-07-07] ingest | Ola 3b — re-ingesta (marcas, estrategia, EBITDA) + Memoria Falabella 2025
 - Re-creadas desde fuentes reales: `empresa/marcas-formatos` (Memoria Sodimac 2025 + corp pres), `empresa/estrategia` (Plan Inversiones + corp pres), `conceptos/ebitda` (EF + corp pres).
 - Extraída e ingerida (light) la Memoria Falabella 2025 (421 págs): +90 mil colaboradores; añadido a `empresa/grupo-falabella` y ficha `fuentes/memoria-falabella-2025`.

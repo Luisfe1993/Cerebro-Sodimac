@@ -27,6 +27,7 @@
 cerebro-sodimac/
 ├── CLAUDE.md          ← este archivo (reglas). NO es contenido de la wiki.
 ├── tools/             ← utilidades. `extract_pdfs.py` convierte row/*.pdf → extracted/*.txt.
+                       `lint.py` chequea salud del wiki (huérfanos, enlaces, cobertura).
 ├── row/               ← CAPA 3: archivos BRUTOS del usuario (PDF). NO se modifican jamás.
 │   ├── README.md      ← tabla de estado de ingesta (✅ ingerido / ⏳ pendiente).
 │   ├── _inbox/        ← bandeja de PENDIENTES (aún sin ingerir).
@@ -106,17 +107,21 @@ cerebro-sodimac/
 **Query** (al hacer una pregunta contra el wiki):
 1. Lee primero `index.md`, localiza páginas relevantes y entra a ellas.
 2. Responde **con citas**.
-3. Si la respuesta es valiosa (una comparación, un análisis, una conexión nueva),
-   **archívala como página nueva** en el wiki para que el conocimiento se acumule
-   y no se pierda en el chat.
+3. **Archiva las respuestas valiosas como "query pages".** Si una pregunta produce una
+   comparación, un análisis, un bridge o una conexión nueva, créala como página en la
+   carpeta que corresponda (normalmente `wiki/sintesis/` o `wiki/fpna/`), con frontmatter
+   `tipo: analisis`, citas a `row/`, y enlázala desde las páginas relacionadas y el `index.md`.
+   Así el conocimiento **se acumula** en lugar de perderse en el chat (principio central del patrón).
 
-**Lint** (chequeo de salud periódico, cuando yo lo pida):
-- Busca: contradicciones entre páginas, afirmaciones obsoletas superadas por fuentes
-  nuevas, páginas huérfanas (sin enlaces entrantes), conceptos mencionados sin página
-  propia, referencias cruzadas faltantes, vacíos de datos.
+**Lint** (chequeo de salud — correr periódicamente y tras cada ola):
+- Ejecuta **`python tools/lint.py`** (o `--strict` para exit code 1 si hay hallazgos).
+  Reporta: huérfanos, enlaces rotos, frontmatter incompleto, `estado` != verificado y
+  cobertura PDF (row → extracted → citado en wiki).
+- Complementa con revisión cualitativa: contradicciones entre páginas, afirmaciones
+  obsoletas superadas por fuentes nuevas, conceptos mencionados sin página propia, vacíos de datos.
 - **No borres archivos** ni crees páginas de contenido unilateralmente: reporta y
   propón. Corrige solo metadata (frontmatter) cuando el valor sea inequívoco.
-- Registra el lint en `log.md`.
+- Registra cada pasada de lint en `log.md` (`## [fecha] lint | <resumen>`).
 
 ## 4. Áreas prioritarias a optimizar (para mi rol de FP&A)
 
@@ -132,7 +137,7 @@ cerebro-sodimac/
 ### 5.1 Frontmatter YAML (en cada página del wiki)
 ```yaml
 ---
-tipo: entidad | concepto | kpi | proceso | caso | fuente | checklist | sintesis
+tipo: entidad | concepto | kpi | proceso | caso | fuente | checklist | sintesis | serie | analisis
 titulo: <título>
 descripcion: <resumen de una línea>
 tags: [<tag1>, <tag2>]
