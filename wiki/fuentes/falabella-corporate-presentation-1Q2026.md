@@ -23,11 +23,9 @@ fuentes: [row/falabella-corporate-presentation-1Q2026.md]
 
 ## Páginas que alimenta
 - [Grupo Falabella — ecosistema y engines](../empresa/grupo-falabella.md)
-- [Sodimac — visión general](../empresa/sodimac-vision-general.md)
-- [Marcas y formatos](../empresa/marcas-formatos.md)
-- [Estrategia y prioridades](../empresa/estrategia.md)
-- [Alcance: Sodimac S.A. vs segmento Sodimac](../conceptos/alcance-sodimac-sa-vs-segmento.md)
+- [Alcance: Sodimac S.A. vs Grupo Falabella](../conceptos/alcance-sodimac-sa-vs-grupo.md)
 
 ## Notas de trazabilidad
 - Documento con forward-looking statements; cifras a FX constante (no comparables 1:1 con reportes en CLP).
 - México y Colombia (Home Improvement) NO consolidan en los estados financieros del grupo.
+- Fuente derivada de una extracción de texto (chat); útil para el contexto US$ del grupo. Los datos oficiales en CLP están en `EF Falabella FSA 2025`.

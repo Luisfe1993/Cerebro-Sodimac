@@ -47,7 +47,7 @@ Cifras en MM$ CLP (fuente en M$). `[Fuente: EF-Diciembre-2025.pdf · pág.13 · 
 ## Relacionado
 - [Balance — Sodimac 2025](balance-sodimac-2025.md)
 - [Flujo de caja — Sodimac 2025](flujo-de-caja-sodimac-2025.md)
-- [EBITDA](../conceptos/ebitda.md) _(pendiente re-ingesta)_
+- EBITDA _(concepto pendiente Ola 3b)_
 - [Sodimac Chile — entidad](../empresa/sodimac-chile.md)
 
 ## Fuentes

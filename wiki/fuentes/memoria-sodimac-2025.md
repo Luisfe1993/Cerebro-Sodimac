@@ -22,7 +22,7 @@ fuentes: [row/Memoria Anual - Sodimac Chile/Memoria-Sodimac-2025 (1).pdf]
 ## Páginas del wiki que alimenta
 - [Sodimac Chile — entidad](../empresa/sodimac-chile.md)
 - [Indicadores operativos — Sodimac 2025](../kpis/indicadores-operativos-2025.md)
-- [Marcas y formatos](../empresa/marcas-formatos.md)
+- [Serie operativa anual 2022-2025](../series/operativo-anual.md)
 
 ## Notas
 - La memoria es de diseño **multicolumna**; la extracción de texto queda algo desordenada. Verificar cifras contra el PDF antes de citar detalles finos.

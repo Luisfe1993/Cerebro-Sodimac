@@ -5,6 +5,14 @@
 
 ---
 
+## [2026-07-07] ingest+fix | Ola 3 (Grupo Falabella) + limpieza de duplicados
+- Ingeridos: EF Falabella FSA 2025 (grupo, CLP) y Plan de Inversiones 2026.
+- Creadas páginas: `empresa/grupo-falabella` (reconstruida), `finanzas/plan-inversiones-grupo-2026`, fuentes `ef-falabella-fsa-2025` y `plan-inversiones-falabella-2026`.
+- Hallazgos: ingresos grupo 2025 MM$11.342.386 (+9,9%); activos MM$26.812.998; Chile ~70% de ingresos no bancarios. Capex 2026 +40% a US$900M (espacios físicos US$500M, tecnología US$265M, aperturas US$113M). Sodimac: reconversión Maestro→Sodimac (Perú), pocas aperturas.
+- Segmento "mejoramiento del hogar Chile" del grupo cuadra con Sodimac S.A. (MM$2.422.084 en 2024) → valida el perentity.
+- **Limpieza:** se detectaron 11 archivos del piloto viejo duplicados en el wiki activo (reaparecieron por una restauración de git/editor). Eliminados del wiki activo con `git rm` (conservados en `_archive_piloto/`). Enlaces a páginas eliminadas corregidos. Pendiente re-ingesta (Ola 3b): EBITDA, SSS, marcas/formatos, estrategia.
+- `index.md` actualizado.
+
 ## [2026-07-07] ingest | Ola 2b — serie operativa (Memorias Sodimac 2022-2024)
 - Extraídas e ingeridas las memorias 2022, 2023, 2024 (la 2025 ya estaba).
 - Creadas 2 páginas: `series/operativo-anual`, `fuentes/memorias-sodimac-serie`.
