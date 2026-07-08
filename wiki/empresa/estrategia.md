@@ -1,5 +1,6 @@
 ---
 tipo: entidad
+type: empresa
 titulo: Estrategia y prioridades
 descripcion: Prioridades del grupo Falabella y foco estratégico de Sodimac (PRO, marcas propias, specialist superstore).
 tags: [entidad, estrategia, sodimac, falabella]

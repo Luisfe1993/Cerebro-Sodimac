@@ -1,5 +1,6 @@
 ---
 tipo: serie
+type: series
 titulo: Evolución 2025 YTD + Q1-2026 (Sodimac S.A.)
 descripcion: Ingresos y margen bruto acumulados dentro de 2025 (3M/6M/9M/12M) y arranque de 2026 (Q1).
 tags: [serie, finanzas, sodimac-sa, 2025, 2026, intra-anual]

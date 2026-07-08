@@ -12,7 +12,11 @@
       "empresa": "#4c9aff",
       "finanzas": "#2ecc71",
       "kpis": "#e67e22",
-      "fpna": "#e74c3c"
+      "fpna": "#e74c3c",
+      "conceptos": "#9b59b6",
+      "series": "#1abc9c",
+      "sintesis": "#f1c40f",
+      "fuentes": "#95a5a6"
     }
   },
   "editor.wordWrap": "on",

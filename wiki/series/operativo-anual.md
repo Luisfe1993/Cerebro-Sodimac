@@ -1,5 +1,6 @@
 ---
 tipo: serie
+type: series
 titulo: Serie operativa anual (Sodimac S.A. 2022-2025)
 descripcion: Serie de tiempo 2022-2025 de tiendas, superficie, trabajadores, transacciones y productividad.
 tags: [serie, operativo, kpi, sodimac-sa, 2022-2025]

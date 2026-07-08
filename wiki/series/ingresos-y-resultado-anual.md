@@ -1,5 +1,6 @@
 ---
 tipo: serie
+type: series
 titulo: Serie anual — Ingresos, márgenes y resultado (Sodimac S.A. 2021-2025)
 descripcion: Serie de tiempo 2021-2025 de ingresos, margen bruto, resultado, activos, patrimonio e inventarios (MM$ CLP).
 tags: [serie, finanzas, sodimac-sa, historico, 2021-2025]

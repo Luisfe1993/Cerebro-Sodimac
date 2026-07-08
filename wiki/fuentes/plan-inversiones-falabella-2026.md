@@ -1,5 +1,6 @@
 ---
 tipo: fuente
+type: fuentes
 titulo: Plan de Inversiones Grupo Falabella 2026
 descripcion: Presentación del plan de inversiones (capex) 2026 del grupo Falabella y por negocio.
 tags: [fuente, capex, inversiones, falabella, 2026]

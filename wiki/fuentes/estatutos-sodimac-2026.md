@@ -1,5 +1,6 @@
 ---
 tipo: fuente
+type: fuentes
 titulo: Estatutos refundidos Sodimac 2026
 descripcion: Estatutos sociales refundidos y actualizados de Sodimac S.A. (2026).
 tags: [fuente, estatutos, gobierno-corporativo, sodimac-sa, 2026]

@@ -1,5 +1,6 @@
 ---
 tipo: fuente
+type: fuentes
 titulo: EF Sodimac S.A. — Junio 2025 (intermedio)
 descripcion: Estados Financieros Consolidados Intermedios (no auditados) de Sodimac S.A. y Filiales al 30-06-2025 (M$, NIIF).
 tags: [fuente, ef, sodimac-sa, chile, intermedio, 2025]

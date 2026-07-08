@@ -1,5 +1,6 @@
 ---
 tipo: kpi
+type: kpis
 titulo: Indicadores operativos — Sodimac 2025
 descripcion: KPIs operativos y de productividad de Sodimac S.A. (Chile) 2025 con lectura para FP&A.
 tags: [kpi, operativo, sodimac-sa, chile, 2025]

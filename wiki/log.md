@@ -5,6 +5,11 @@
 
 ---
 
+## [2026-07-08] mejora | Coloreado del grafo Foam por categoría
+- Añadido campo `type: <carpeta>` al frontmatter de las 30 páginas del wiki activo (sin alterar `tipo:`), para que Foam coloree los nodos por área.
+- `.vscode/settings.json`: añadidos colores para `conceptos`, `series`, `sintesis`, `fuentes` (ya existían empresa/finanzas/kpis/fpna).
+- Push del proyecto a `origin/main` (GitHub). Excluidos del commit: `.obsidian/workspace.json` y archivos `Untitled*` sin título.
+
 ## [2026-07-07] ingest | Ola 4 — cobertura 100% (grupo trimestral + memorias Falabella 2021-2023 + estatutos)
 - Extraídos e ingeridos los 8 PDF restantes → **cobertura 24/24**.
 - Nuevas páginas: `series/grupo-falabella-financiero` (ingresos grupo 2021-2026), `empresa/gobierno-corporativo` (estatutos).

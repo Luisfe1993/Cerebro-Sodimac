@@ -1,5 +1,6 @@
 ---
 tipo: sintesis
+type: sintesis
 titulo: Visión ejecutiva — Sodimac S.A.
 descripcion: Síntesis viva del estado de Sodimac S.A. (Chile); se actualiza en cada ingesta.
 tags: [sintesis, sodimac-sa, ejecutivo]

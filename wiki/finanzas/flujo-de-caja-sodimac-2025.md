@@ -1,5 +1,6 @@
 ---
 tipo: finanzas
+type: finanzas
 titulo: Flujo de caja — Sodimac S.A. 2025
 descripcion: Estado de flujo de efectivo FY2025 (método directo): operación, inversión y financiación.
 tags: [finanzas, flujo-de-caja, capex, sodimac-sa, 2025]

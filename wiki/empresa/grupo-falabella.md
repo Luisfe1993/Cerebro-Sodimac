@@ -1,5 +1,6 @@
 ---
 tipo: entidad
+type: empresa
 titulo: Grupo Falabella — ecosistema y engines
 descripcion: Estructura del grupo Falabella, cifras consolidadas 2025 y el rol/peso de Sodimac dentro del ecosistema.
 tags: [entidad, falabella, ecosistema, grupo]

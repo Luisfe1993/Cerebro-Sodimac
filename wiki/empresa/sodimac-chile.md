@@ -1,5 +1,6 @@
 ---
 tipo: entidad
+type: empresa
 titulo: Sodimac Chile — entidad (Sodimac S.A.)
 descripcion: Perfil de la entidad legal Sodimac S.A. (Chile): negocio, red, personas y tamaño financiero 2025.
 tags: [entidad, sodimac-sa, chile, perfil]

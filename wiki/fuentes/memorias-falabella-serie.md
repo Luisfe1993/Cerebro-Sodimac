@@ -1,5 +1,6 @@
 ---
 tipo: fuente
+type: fuentes
 titulo: Serie Memorias Falabella (2021-2023)
 descripcion: Memorias anuales del grupo Falabella 2021, 2022 y 2023 (contexto e ingresos consolidados históricos).
 tags: [fuente, memoria, falabella, grupo, serie, historico]

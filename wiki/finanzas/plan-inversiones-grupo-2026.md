@@ -1,5 +1,6 @@
 ---
 tipo: finanzas
+type: finanzas
 titulo: Plan de inversiones del grupo 2026 (Falabella)
 descripcion: Capex 2026 del grupo Falabella, su desglose por foco y la inversión específica en Sodimac.
 tags: [finanzas, capex, inversiones, falabella, sodimac, 2026]

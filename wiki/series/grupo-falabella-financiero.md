@@ -1,5 +1,6 @@
 ---
 tipo: serie
+type: series
 titulo: Serie financiera del Grupo Falabella (2021-2026)
 descripcion: Ingresos consolidados del grupo Falabella por año (2021-2025) y acumulado YTD 2025 + Q1-2026 (MM$ CLP).
 tags: [serie, finanzas, falabella, grupo, 2021-2026]

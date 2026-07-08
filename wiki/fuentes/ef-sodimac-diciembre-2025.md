@@ -1,5 +1,6 @@
 ---
 tipo: fuente
+type: fuentes
 titulo: EF Sodimac S.A. — Diciembre 2025 (anual)
 descripcion: Estados Financieros Consolidados auditados de Sodimac S.A. y Filiales, ejercicio 2025 (M$, NIIF, Deloitte).
 tags: [fuente, ef, sodimac-sa, chile, anual, 2025]

@@ -1,5 +1,6 @@
 ---
 tipo: entidad
+type: empresa
 titulo: Marcas y formatos de Sodimac
 descripcion: Formatos de tienda, marcas propias y huella geográfica de Sodimac (Chile y LatAm).
 tags: [entidad, marcas, formatos, geografia]

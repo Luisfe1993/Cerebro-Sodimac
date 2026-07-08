@@ -1,5 +1,6 @@
 ---
 tipo: concepto
+type: conceptos
 titulo: "Alcance: Sodimac S.A. (Chile) vs Grupo Falabella"
 descripcion: Distinción de perímetro, moneda y consolidación entre la entidad Sodimac S.A. y el grupo/segmento Falabella.
 tags: [concepto, alcance, trazabilidad, fpna]

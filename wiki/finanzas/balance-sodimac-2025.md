@@ -1,5 +1,6 @@
 ---
 tipo: finanzas
+type: finanzas
 titulo: Balance — Sodimac S.A. 2025
 descripcion: Estado de situación financiera FY2025 vs 2024 (con hito intermedio jun-25); estructura de activos, pasivos y patrimonio.
 tags: [finanzas, balance, sodimac-sa, 2025]

@@ -1,5 +1,6 @@
 ---
 tipo: fuente
+type: fuentes
 titulo: Serie histórica EF Sodimac Chile (2021-2026)
 descripcion: Conjunto de estados financieros de Sodimac S.A. usados para las series de tiempo (anuales e intermedios).
 tags: [fuente, ef, sodimac-sa, serie, historico]

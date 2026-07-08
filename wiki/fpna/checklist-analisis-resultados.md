@@ -1,5 +1,6 @@
 ---
 tipo: fpna
+type: fpna
 titulo: Checklist — Análisis de resultados (Sodimac S.A.)
 descripcion: Checklist accionable de FP&A para analizar los resultados trimestrales/anuales de Sodimac S.A., anclado a sus cuentas reales.
 tags: [fpna, checklist, analisis, sodimac-sa]

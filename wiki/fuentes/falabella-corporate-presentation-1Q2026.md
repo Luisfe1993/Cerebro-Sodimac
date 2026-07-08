@@ -1,5 +1,6 @@
 ---
 tipo: fuente
+type: fuentes
 titulo: Falabella S.A. — Corporate Presentation 1Q-2026
 descripcion: Presentación corporativa del grupo Falabella (LatAm) a 1Q26, en US$; Sodimac como engine de mejoramiento del hogar.
 tags: [fuente, falabella, grupo, ecosistema, 2026]

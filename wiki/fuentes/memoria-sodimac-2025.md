@@ -1,5 +1,6 @@
 ---
 tipo: fuente
+type: fuentes
 titulo: Memoria Anual Sodimac 2025
 descripcion: Memoria integrada (financiera + sostenibilidad) de Sodimac S.A. 2025, norma CMF 461/519.
 tags: [fuente, memoria, sodimac-sa, chile, 2025]

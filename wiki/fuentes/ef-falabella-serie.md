@@ -1,5 +1,6 @@
 ---
 tipo: fuente
+type: fuentes
 titulo: Serie EF Grupo Falabella (trimestrales 2025-2026)
 descripcion: Estados financieros consolidados intermedios del grupo Falabella (mar/jun/sep-2025 y mar-2026).
 tags: [fuente, ef, falabella, grupo, serie, 2025, 2026]

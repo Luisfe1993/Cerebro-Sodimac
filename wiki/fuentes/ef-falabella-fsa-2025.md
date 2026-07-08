@@ -1,5 +1,6 @@
 ---
 tipo: fuente
+type: fuentes
 titulo: EF Falabella S.A. — FSA 2025 (grupo, anual)
 descripcion: Estados Financieros Consolidados de Falabella S.A. y Filiales 2025 (M$, NIIF), con nota de segmentos.
 tags: [fuente, ef, falabella, grupo, anual, 2025]

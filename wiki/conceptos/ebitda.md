@@ -1,5 +1,6 @@
 ---
 tipo: concepto
+type: conceptos
 titulo: EBITDA
 descripcion: Qué es el EBITDA, por qué en Sodimac S.A. es una métrica derivada (no un renglón del EF) y cómo lo reportan las fuentes.
 tags: [concepto, ebitda, rentabilidad, fpna]

@@ -1,5 +1,6 @@
 ---
 tipo: finanzas
+type: finanzas
 titulo: Estado de resultados — Sodimac S.A. 2025 (anual)
 descripcion: P&L auditado FY2025 vs FY2024 de Sodimac S.A. (MM$ CLP, NIIF) con márgenes y drivers.
 tags: [finanzas, p&l, sodimac-sa, anual, 2025]

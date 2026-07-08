@@ -1,5 +1,6 @@
 ---
 tipo: entidad
+type: empresa
 titulo: Gobierno corporativo y estatutos (Sodimac S.A.)
 descripcion: Datos societarios de Sodimac S.A. desde los estatutos refundidos 2026: nombre, objeto, directorio e historia.
 tags: [entidad, gobierno-corporativo, estatutos, sodimac-sa]

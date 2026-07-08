@@ -1,5 +1,6 @@
 ---
 tipo: fuente
+type: fuentes
 titulo: Memoria Anual Falabella 2025
 descripcion: Memoria integrada del grupo Falabella S.A. 2025 (421 págs); contexto de ecosistema, gobierno y negocios.
 tags: [fuente, memoria, falabella, grupo, 2025]

@@ -1,5 +1,6 @@
 ---
 tipo: fuente
+type: fuentes
 titulo: Serie de Memorias Sodimac Chile (2022-2025)
 descripcion: Memorias anuales integradas de Sodimac S.A. usadas para la serie operativa.
 tags: [fuente, memoria, sodimac-sa, serie, historico]
