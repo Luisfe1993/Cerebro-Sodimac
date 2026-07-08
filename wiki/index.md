@@ -13,7 +13,7 @@
 1. Deja PDF nuevos en `row/_inbox/`.
 2. Corre `python tools/extract_pdfs.py` para generar el texto en `extracted/`.
 3. Pídeme que ingiera; construyo/actualizo el wiki citando el PDF por página.
-4. Explora el grafo con Foam (`Foam: Show Graph`).
+4. Explora el grafo con Foam (`Foam: Show Graph`). Ver [leyenda de colores](leyenda-grafo.md).
 
 ---
 

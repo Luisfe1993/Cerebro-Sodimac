@@ -5,6 +5,10 @@
 
 ---
 
+## [2026-07-08] mejora | Leyenda de colores del grafo Foam
+- Creada `wiki/leyenda-grafo.md`: tabla categoría → color → carpeta, con swatches HTML. Enlazada desde `index.md`.
+- Foam no tiene panel de leyenda nativo; se documenta como página (queda como nodo consultable). Lint 🟢 (33 páginas).
+
 ## [2026-07-08] mejora | Coloreado del grafo Foam por categoría
 - Añadido campo `type: <carpeta>` al frontmatter de las 30 páginas del wiki activo (sin alterar `tipo:`), para que Foam coloree los nodos por área.
 - `.vscode/settings.json`: añadidos colores para `conceptos`, `series`, `sintesis`, `fuentes` (ya existían empresa/finanzas/kpis/fpna).
