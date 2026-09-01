@@ -5,6 +5,13 @@
 
 ---
 
+## [2026-09-01] lint | Validación posterior a guía interactiva
+- Estado verde: 33 páginas activas, 0 huérfanos, 0 enlaces rotos, frontmatter completo, todas verificadas y cobertura 24/24 PDF.
+
+## [2026-09-01] mejora | Guía interactiva de onboarding
+- Creada `guia-interactiva.html`: recorrido autocontenido para usuarios nuevos, con arquitectura de tres capas, operaciones Query/Ingest/Lint, generador de prompts, reglas, checklist persistente y comprobación rápida.
+- Enlazada desde `wiki/index.md`.
+
 ## [2026-07-08] mejora | Leyenda de colores del grafo Foam
 - Creada `wiki/leyenda-grafo.md`: tabla categoría → color → carpeta, con swatches HTML. Enlazada desde `index.md`.
 - Foam no tiene panel de leyenda nativo; se documenta como página (queda como nodo consultable). Lint 🟢 (33 páginas).

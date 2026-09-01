@@ -10,6 +10,7 @@
 - **Última actualización:** 2026-07-07.
 
 ## Cómo usar este cerebro
+0. Abre la [guía interactiva para empezar desde cero](../guia-interactiva.html).
 1. Deja PDF nuevos en `row/_inbox/`.
 2. Corre `python tools/extract_pdfs.py` para generar el texto en `extracted/`.
 3. Pídeme que ingiera; construyo/actualizo el wiki citando el PDF por página.
